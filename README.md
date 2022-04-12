@@ -16,4 +16,4 @@
     <img alig='center' alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div>
 <br>
-Apaixonado por tecnologia, sempre disposto a novas experiencias para agregar no meu desenvolvimento.
+Apaixonado por tecnologia, sempre em busca de novas experiencias para agregar no meu desenvolvimento pessoal e profissional.
