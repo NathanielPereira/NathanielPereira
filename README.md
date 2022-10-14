@@ -16,7 +16,10 @@
     <img alig='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
     <img alig='center' alt='TypeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
     <img alig='center' alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+    <img alig='center' alt='Postgresql' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
     <img alig='center' alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
+    <img alig='center' alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+    <img alig='center' alt='JQUERY' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'/>
 </div>
 <br>
 Apaixonado por tecnologia, sempre em busca de novas experiencias para agregar no meu desenvolvimento pessoal e profissional.
