@@ -124,8 +124,12 @@ Plataforma empresarial full stack com arquitetura moderna e escalável
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanielPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielPereira&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<a href="https://github.com/NathanielPereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanielPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielPereira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 ---
