@@ -2,7 +2,7 @@
 
 ## 💻 Desenvolvedor Full Stack | Especialista em IA Generativa
 
-Desenvolvedor Full Stack com 3+ anos de experiência, especializado em **Node.js, Python, React/Next.js e Inteligência Artificial**. Apaixonado por criar soluções escaláveis que resolvem problemas reais, com foco em arquitetura limpa, performance e inovação.
+Desenvolvedor Full Stack com 4+ anos de experiência, especializado em **Node.js, Python, React/Next.js e Inteligência Artificial**. Apaixonado por criar soluções escaláveis que resolvem problemas reais, com foco em arquitetura limpa, performance e inovação.
 
 ### 🎯 Meu diferencial
 - 🤖 **Sistemas de IA Generativa em produção** com LangChain, RAG e multi-agent systems
